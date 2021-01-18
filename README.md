@@ -19,7 +19,7 @@
 ### 1. CAPsMAN General Automation 
 
 #### CAPsMAN_Auto_SSID_Pass_Change.rsc 
-> Fetches [RouterOS_String_Generator.rsc](https://github.com/gbudny93/RouterOS_Useful_Scripts/blob/master/RouterOS_String_Generator.rsc) and adds it to scheduler. Generated string is added as new passphrase to pointed SSIDs based on scheduler. 
+> Fetches [RouterOS_String_Generator.rsc](https://github.com/lupael/RouterOS_Useful_Scripts/blob/master/RouterOS_String_Generator.rsc) and adds it to scheduler. Generated string is added as new passphrase to pointed SSIDs based on scheduler. 
 
 Example:
 ```
